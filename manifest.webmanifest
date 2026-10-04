@@ -1,0 +1,19 @@
+{
+  "name": "Kalkulator Bobot Kantong Panen - Ciburuyan Akuakultur",
+  "short_name": "Bobot Kantong",
+  "description": "Kalkulator jumlah kantong, total bobot dan rata-rata bobot kantong panen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#16803c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
